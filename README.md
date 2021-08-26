@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Jun Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=irminrics&theme=dark&show_icons=true)](https://github.com/irminrics/github-readme-stats)
+![Jun Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=irminrics&theme=dark&show_icons=true)](https://github.com/irminrics/github-readme-stats)
 
 
 <!--
