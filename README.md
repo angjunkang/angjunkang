@@ -1,7 +1,5 @@
 ## Hi there, I'm [Jun Kang!](irminrics.github.io) 👋
 
----
-
 ![Jun Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=irminrics&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irminrics&theme=dark&show_icons=true)
