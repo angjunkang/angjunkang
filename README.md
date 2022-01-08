@@ -2,6 +2,10 @@
 
 <img src="/images/banner.png" alt="Hello World!">
 
+<div align="center" style="margin: 50px;">
+	<img src="https://profile-counter.glitch.me/irminrics/count.svg" style="height:40px"/>
+</div>
+
 
 ![Jun Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=irminrics&hide=issues&theme=dark&show_icons=true)
 
