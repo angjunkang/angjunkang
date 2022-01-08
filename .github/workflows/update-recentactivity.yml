@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '45 */1 * * *'
+    - cron: '47 */1 * * *'
   workflow_dispatch:
 
 jobs:
