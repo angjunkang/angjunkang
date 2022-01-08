@@ -25,3 +25,7 @@
 5. 🗣 Commented on [#322](https://github.com/nus-cs2030/2122-s1/issues/322) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 <!--END_SECTION:activity-->
 
+<h3>Contribution Graph</h3>
+
+[![Jun Kang's github activity graph](https://activity-graph.herokuapp.com/graph?username=Irminrics&custom_title= &theme=react-dark&area=true&line=79ff97&color=79ff97)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
