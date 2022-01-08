@@ -18,6 +18,12 @@
 <h3>Recent Github Activity</h3>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/Irminrics/weather-swift/issues/1) in [Irminrics/weather-swift](https://github.com/Irminrics/weather-swift)
+2. 🗣 Commented on [#329](https://github.com/nus-cs2030/2122-s1/issues/329) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+3. 🗣 Commented on [#329](https://github.com/nus-cs2030/2122-s1/issues/329) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+4. 🗣 Commented on [#324](https://github.com/nus-cs2030/2122-s1/issues/324) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+5. 🗣 Commented on [#322](https://github.com/nus-cs2030/2122-s1/issues/322) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+<!--END_SECTION:activity-->
 
 
 <h3>Contribution Graph</h3>
