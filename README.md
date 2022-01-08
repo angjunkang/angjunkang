@@ -6,4 +6,5 @@
 <h3>Recent Github Activity</h3>
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
