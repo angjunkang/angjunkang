@@ -1,5 +1,8 @@
 ## Hi there, I'm [Jun Kang!](https://irminrics.herokuapp.com) 👋
 
+<img src="/images/banner.png" alt="Hello World!">
+
+
 ![Jun Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=irminrics&hide=issues&theme=dark&show_icons=true)
 
 
