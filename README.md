@@ -2,15 +2,17 @@
 
 <img src="/images/banner.png" alt="Hello World!">
 
-<br>
+<!--<br>
 
 <div align="center">
 	<img src="https://profile-counter.glitch.me/irminrics/count.svg" style="height:40px"/>
 </div>
 
-<br>
+<br>-->
 
-![Jun Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=irminrics&hide=issues&theme=dark&show_icons=true)
+![Jun Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=irminrics&hide=issues&theme=dark&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irminrics&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <h3>Recent Github Activity</h3>
