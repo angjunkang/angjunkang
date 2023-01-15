@@ -39,5 +39,5 @@
 
 <h3>Contribution Graph</h3>
 
-[![Jun Kang's github activity graph](https://activity-graph.herokuapp.com/graph?username=Irminrics&hide_title=true&theme=react-dark&area=true&line=79ff97&color=79ff97)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jun Kang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Irminrics&hide_title=true&theme=react-dark&area=true&line=79ff97&color=79ff97)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
