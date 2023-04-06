@@ -26,17 +26,6 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irminrics&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-<h3>Recent Github Activity</h3>
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Irminrics/weather-swift/issues/1) in [Irminrics/weather-swift](https://github.com/Irminrics/weather-swift)
-2. 🗣 Commented on [#329](https://github.com/nus-cs2030/2122-s1/issues/329) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-3. 🗣 Commented on [#329](https://github.com/nus-cs2030/2122-s1/issues/329) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-4. 🗣 Commented on [#324](https://github.com/nus-cs2030/2122-s1/issues/324) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-5. 🗣 Commented on [#322](https://github.com/nus-cs2030/2122-s1/issues/322) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-<!--END_SECTION:activity-->
-
-
 <h3>Contribution Graph</h3>
 
 [![Jun Kang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Irminrics&hide_title=true&theme=react-dark&area=true&line=79ff97&color=79ff97)](https://github.com/ashutosh00710/github-readme-activity-graph)
