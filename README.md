@@ -20,9 +20,6 @@
 <img src="https://komarev.com/ghpvc/?username=irminrics"/>
 </div>  
 
-https://github-readme-activity-graph.vercel.app
-
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irminrics&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
