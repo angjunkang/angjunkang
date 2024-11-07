@@ -1,4 +1,4 @@
-## Hi there, I'm [Jun Kang!](https://irminrics.herokuapp.com) 👋
+## Hi there, I'm [Jun Kang!](https://angjunkang.com) 👋
 
 <img src="/images/banner.png" alt="Hello World!">
 
